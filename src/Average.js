@@ -38,5 +38,5 @@ const Average = () => {
 
 export default Average;
 
-
+// 평균을 구하기
 // 평균값 구하기
